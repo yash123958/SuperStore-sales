@@ -119,9 +119,3 @@ This project provides insights into sales performance and customer behavior usin
 4. Explore the dashboard  
 
 ---
-
-## 🔗 Project Demo
-
-👉 Add your project link here  
-
----
